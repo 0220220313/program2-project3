@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/role1.png</file>
+        <file>res/bullet1.png</file>
+        <file>res/bullet2.png</file>
+        <file>res/boss_ice1.png</file>
+        <file>res/ice_1.png</file>
+        <file>res/ice_2.png</file>
+        <file>res/ice_dragon.png</file>
+        <file>res/head1.jpg</file>
+        <file>res/soul.png</file>
+        <file>res/background.jpeg</file>
+        <file>res/background.jpg</file>
+        <file>res/start_background.jpg</file>
+        <file>res/start.jpg</file>
+        <file>res/defeat.png</file>
+        <file>res/black.png</file>
+        <file>res/victory.jpg</file>
+        <file>res/boss_ice2.png</file>
+        <file>res/icon.png</file>
+        <file>res/skill1.png</file>
+        <file>res/a.png</file>
+    </qresource>
+</RCC>
